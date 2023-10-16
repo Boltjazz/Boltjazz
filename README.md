@@ -136,5 +136,4 @@ I am a third-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to
  
 [![CISCO](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/39ce9b53-c867-429a-9e0e-216fe88c74e3/public_url)
 [![IBM](https://images.credly.com/size/110x110/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](https://www.credly.com/badges/d2a28d7c-651f-47c4-970c-ab20a227122a/public_url)
-
  </div>
