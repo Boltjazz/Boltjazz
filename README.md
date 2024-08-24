@@ -62,7 +62,7 @@
   
 I am a Fourth-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to be University.
 
-👉 Full Stack Developer with hands in Cybersecurity.
+👉 Full Stack Developer and Cybersecurity enthusiast.
 
 👉 Proficient in web development, Data Structures, Linux, AI/ML, Cybersecurity, JS and Python.
 
