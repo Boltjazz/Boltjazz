@@ -60,15 +60,15 @@
 <!-- <img width="135" height="180" src="https://github.com/Boltjazz/Boltjazz/assets/110303755/fd158b80-b847-4b22-8c43-56b1a50480bf"
  /> -->
   
-I am a third-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to be University.
+I am a Fourth-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to be University.
 
-👉 Full Stack Developer.
+👉 Full Stack Developer with hands in Cybersecurity.
 
 👉 Proficient in web development, Data Structures, Linux, AI/ML, Cybersecurity, JS and Python.
 
 ✔ Strive to contribute my expertise in Data Structures, Algorithms and Open-source Projects.
 
-✔ Experienced in database management, version control, and software deployment.
+✔ Experienced in database management, version control, and software deployment and development.
   
   
   <!--- Education --->  
@@ -77,7 +77,7 @@ I am a third-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to
     Education 
     </h2>
 
-  Fifth Semester - `Bachelor` in `Computer Engineering` - Bharati Vidyapeeth Deemed University, Pune
+  Seventh Semester - `Bachelor` in `Computer Engineering` - Bharati Vidyapeeth Deemed University, Pune
   
   `Secondary School` Certificate `ICSE` or `Matriculation` Examination - La Martiniere College, Lucknow
 
